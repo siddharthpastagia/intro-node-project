@@ -1,0 +1,1 @@
+console.log('We have a new file named as demo.js')
